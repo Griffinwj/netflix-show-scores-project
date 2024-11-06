@@ -54,11 +54,7 @@ Highest-Rated Movie by Each Director: Uses a join to identify each director's to
 Setup Instructions
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/netflix-analysis.git
-cd netflix-analysis
-Load the Data:
+
 
 Import the Netflix titles dataset and ratings data into a SQLite database named netflix_data.db.
 Use CREATE TABLE statements in the project files to set up the schema for Netflix_TV_Shows_and_Movies and ratings tables.
